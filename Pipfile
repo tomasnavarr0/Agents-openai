@@ -6,8 +6,8 @@ name = "pypi"
 [packages]
 pydantic-settings = "*"
 openai-agents = "*"
-playwright = "*"
 selenium = "*"
+playwright = "*"
 
 [dev-packages]
 ipykernel = "*"
